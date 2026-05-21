@@ -24,7 +24,4 @@ Predictive model based on trained data
 Real-time price prediction display
 Visualization of model performance and dataset insights
 
-## Live Demo
-Check out the live Streamlit app here
-
 This dataset was sourced from Kaggle: Ford Car Price Prediction
